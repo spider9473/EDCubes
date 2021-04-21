@@ -8,7 +8,7 @@ SPIDER CUBE ONE
 
 Started 20210419
 3203 SDF before jumping into first system
-#### SDF at end of cube (### total systems in cube)
+####-1 SDF at end of cube (### total systems in cube)
 PROFITS FROM EXPLORATION BEFORE JUMPING INTO CUBE: 839,822,971
 PROFITS FROM EXPLORATION AT END OF CUBE: #,###,###,###
 
@@ -67,6 +67,15 @@ AB6A = ROCKY = MUSGx1
 AB6B = ICY = \
 AB7 = ICY = LTDx1, GRANDx1
 
+* Smojooe ZS-V b30-2
+6 = ICY = ALEXx2, BROMx3, LTDx2, VOx2, GRANDx1
+7A = MR = PLATx2, SERENx2, PAINx1, MONAZx1
+7B = ICY = \
+8 = ICY = TRITx1, LTDx1
+9A = ROCKY = SERENx1
+9B = ICY = GRANDx2, BROMx1
+9C = ICY = ? (I can't find it)
+
 *
 
 
@@ -106,5 +115,9 @@ AB6a SELEN 4.2% NIOB 0.8% RUTH 0.8% MERC 0.5%
 AB6d SELEN 4.3% MOLY 0.8% RUTH 0.8% TIN 0.8%
 B1 ZIRC 2.5% NIOB 1.5% TIN 1.4% TECH 0.8%
 B5a SELEN 2.9% CADM 1.6% YTT 1.2% TUNG 1.1%
+
+* Smojooe ZS-V b30-2
+1 ZIRC 2.6% CADM 1.8% ANTI 1.0% MERC 1.0%
+6a SELEN 4.4% ZIRC 1.5% MOLY 0.8% YTT 0.8% TIN 0.7%
 
 *
