@@ -23,7 +23,8 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe GH-M d7-47 (HMTx4)
 *) Smojooe MO-Y c14-12 (HMTx1)
 *) Smojooe QU-W c15-3 (HMTx1, Ax1)
-*)
+*) Smojooe GH-M d7-29 (HMTx1)
+*) Smojooe HA-S b32-0 (HMTx1)
 *)
 
 **********************************
@@ -103,7 +104,25 @@ B9 = ICY = \
 2A = ROCKY = ALEXx5, SERENx2, MUSGx1
 2B = ICY = ALEXx1
 
-* 
+* Smojooe GH-M d7-29
+ABC1 = ICY = BROMx1
+
+* Smojooe HA-S b32-0
+AB1A = ROCKY = BENITx2, SERENx2, MONAZx1, MUSGx1
+AB1B = ICY = \
+AB2A = ROCKY = MUSGx3, BENITx1
+AB2B = ICY = TRIT/GRAND overlap, VO/ALEX overlap, ALEXx1, VOx1, BROMx2, GRANDx1
+AB3 = ICY = \
+C1A = ROCKY = ALEXx1, MONAZx1
+C1B = ICY = ALEXx1, GRANDx1, TRITx1
+C2A = ROCKY = BENITx3, MUSGx2, SERENx1, MONAZx1
+C2B = ICY = TRITx2, BROMx1, GRANDx1, VOx2, ALEXx2, LTDx1
+C3A = MR = MONAZx1, PLATx1, PAINx2, SERENx2, RHODx1
+C3B = ICY = GRAND/LTD overlap, BROMx4, LTDx3, VOx2, ALEXx1, GRANDx1, TRITx1
+C4A = MR = PLATx1, MONAZx1, SERENx1, RHODx1
+C4B = ICY = VOx2, BROMx1
+
+*
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
@@ -145,5 +164,11 @@ B5a SELEN 2.9% CADM 1.6% YTT 1.2% TUNG 1.1%
 * Smojooe ZS-V b30-2
 1 ZIRC 2.6% CADM 1.8% ANTI 1.0% MERC 1.0%
 6a SELEN 4.4% ZIRC 1.5% MOLY 0.8% YTT 0.8% TIN 0.7%
+
+* Smojooe GH-M d7-29
+A1 NIOB 1.4% TIN 1.4% RUTH 1.3%
+
+* Smojooe HA-S b32-0
+AB3c SELEN 4.4% ZIRC 1.5% CADM 1.0% MOLY 0.8% RUTH 0.8%
 
 *
