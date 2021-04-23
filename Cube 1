@@ -7,8 +7,8 @@ SPIDER CUBE ONE
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Started 20210419
-3203 SDF before jumping into first system
-####-1 SDF at end of cube (### total systems in cube)
+3203 SV before jumping into first system
+####-1 SV at end of cube (### total systems in cube)
 PROFITS FROM EXPLORATION BEFORE JUMPING INTO CUBE: 839,822,971
 PROFITS FROM EXPLORATION AT END OF CUBE: #,###,###,###
 
@@ -20,16 +20,16 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe GH-M d7-28 (HMTx1), C1a - radius 225km (HMC)
 *) Smojooe GH-M d7-35 (HMTx2)
 *) Smojooe GH-M d7-37 (HMTx2)
-*)
-*)
-*)
+*) Smojooe GH-M d7-47 (HMTx4)
+*) Smojooe MO-Y c14-12 (HMTx1)
+*) Smojooe QU-W c15-3 (HMTx1, Ax1)
 *)
 *)
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
 **********************************
-***  0                         ***
+***  4                         ***
 ***                            ***
 ***                            ***
 ***                            ***
@@ -38,6 +38,11 @@ INNER ORION SPUR CUBE#1 POI
 ***                            ***
 **********************************
 Listed:
+
+Smojooe UB-Z b28-1 (CMDR SlaughterMouse)
+Smojooe XH-X b29-1 (CMDR Countryboygeek)
+Smojooe GH-M d7-47 (CMDR j-rod)
+Smojooe MO-Y c14-11 (CMDR j-rod, CMDR MGC280942)
 
 
 
@@ -74,10 +79,31 @@ AB7 = ICY = LTDx1, GRANDx1
 8 = ICY = TRITx1, LTDx1
 9A = ROCKY = SERENx1
 9B = ICY = GRANDx2, BROMx1
-9C = ICY = ? (I can't find it)
+9C = ICY = (404 Ring not found)
 
-*
+* Smojooe GH-M d7-32
+4A = MR = SERENx2, RHODx1, PAINx1
+4B = ROCKY = BENITx1
 
+* Smojooe GH-M d7-47
+10 = ICY = \
+
+* Smojooe MO-Y c14-12
+B9 = ICY = \
+
+* Smojooe MO-Y c14-11
+1A = ROCKY = BENITx1, MUSGx1, ALEXx1
+1B = MR = \
+2 = ICY = GRAND/VO overlap, BROM/TRIT-TRIT/LTD-LTD/BROM overlap, ALEXx3, TRITx1, LTDx1, VOx1
+3 = ICY = LTDx2
+4 = ICY = ALEX/TRIT overlap, TRITx2, ALEXx1, VOx1
+
+* Smojooe QU-W c15-4
+1 = ROCKY = MUSG/BENIT overlap, MUSG/MONAZ overlap, BENITx3, MUSGx1, SERENx1, MONAZx1, ALEXx1
+2A = ROCKY = ALEXx5, SERENx2, MUSGx1
+2B = ICY = ALEXx1
+
+* 
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
