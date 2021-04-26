@@ -3,7 +3,17 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 SPIDER CUBE ONE
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+started from Smojooe GH-M d7-4
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Corners:
+Smojooe KA-S b32-2
+Smojooe CB-O d6-57
+Smojooe LV-A b28-2
+Smojooe FA-S b32-2
+Smojooe AZ-S b32-1
+Smojooe UY-S b32-1
+Smojooe CP-B b28-0
+Smojooe EJ-D b27-0
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Started 20210419
@@ -32,7 +42,7 @@ INNER ORION SPUR CUBE#1 POI
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
 **********************************
-***  8                         ***
+***  11                        ***
 **********************************
 Listed:
 
@@ -44,6 +54,9 @@ Smojooe FA-S b32-2 (CMDR rayraysbbq)
 Smojooe FH-M d7-8 (CMDR HoppyHS, CMDR Vazeto, CMDR Arkestra Leon)
 Smojooe LO-Y c14-8 (CMDR Vazeto)
 Smojooe FH-M d7-42 (CMDR Countryboygeek)
+Smojooe ZN-V b30-0 (CMDR HoppyHS)
+Smojooe FH-M d7-43 (CMDR Vazeto, CMDR Arkestra Leon)
+Smojooe WH-X b29-3 (CMDR rayraysbbq)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -124,6 +137,22 @@ C4B = ICY = VOx2, BROMx1
 * Smojooe FA-S b32-2
 6 = ICY = ALEX/GRAND overlap, ALEXx2, GRANDx1
 
+* Smojooe FH-M d7-43
+AB1A = ROCKY = \
+AB1B = MR = SEREN/PAIN overlap, SERENx3, PAINx1, MONAZx1, RHODx1, PLATx1
+AB2 = MR = \
+AB3A = METAL = PAINx1, SERENx2, PLATx3, RHODx2, MONAZx1
+AB3B = MR = PAINx1, SERENx2, PLATx2, MONAZx1
+AB4A = METAL = SERENx1, RHODx1, PAINx1
+AB4B = ROCKY = \
+AB5A = ROCKY = BENITx1
+AB5B = ICY = LTD/VO overlap, LTDx1, TRITx1
+
+* Smojooe WH-X b29-1
+8A = MR = SERENx2, PAINx3, PLATx1, MONAZx1
+8B = ICY = GRANDx1, VOx1
+9 = ICY = ***LTDx2 overlap***, BROMx1, LTDx1
+
 *
 
 *******************************************
@@ -175,5 +204,12 @@ AB3c SELEN 4.4% ZIRC 1.5% CADM 1.0% MOLY 0.8% RUTH 0.8%
 
 * Smojooe FA-S b32-2
 1 SELEN 2.4% CADM 1.7% NIOB 1.5% YTT 1.3%
+
+* Smojooe FH-M d7-43
+AB3a SELEN 3.0% MOLY 1.3% YTT 1.2% TIN 1.2%
+
+* Smojooe WH-X b29-3
+A1 ZIRC 2.6% NIOB 1.5% ANTI 1.0% MERC 1.0%
+B1 ZIRC 2.7% SELEN 2.6% TIN 1.5% MERC 1.0% POLO 0.7%
 
 *
