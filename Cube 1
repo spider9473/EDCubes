@@ -40,12 +40,13 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe SB-Z b28-0 (HMTx1)
 *) Smojooe WH-X b29-0 (ELx1, HMTx1, WTx1)
 *) Smojooe LO-Y c14-2 (HMTx1, Wx1)
+*) Smojooe IT-Y c14-4 (HMTx1)
 *) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
 **********************************
-***  16                        ***
+***  20                        ***
 **********************************
 Listed:
 
@@ -65,7 +66,10 @@ Smojooe LO-Y c14-2 (CMDR Vazeto)
 Smojooe TH-X b29-2 (CMDR PlatinumVision)
 Smojooe RB-Z b28-2 (CMDR Queex)
 Smojooe GI-A c14-6 (CMDR Selmey)
-
+Smojooe SM-X b29-1 (CMDR Bonkarma)
+Smojooe IT-Y c14-2 (CMDR Lorcann)
+Smojooe WS-V b30-2 (CMDR FEARLESS SLY)
+Smojooe AZ-T b31-0 (CMDR Lorcann)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -175,6 +179,26 @@ AB5B = ICY = LTD/VO overlap, LTDx1, TRITx1
 1B = ROCKY = ALEXx2, MONAZx1, BENITx1
 3 = ICY = \
 
+* Smojooe AZ-T b31-2
+3 = ICY = BROMx2
+
+* Smojooe GF-S b32-1
+9 = ICY = BROMx1
+10 = ICY = GRAND/VO overlap, TRITx3, VOx2
+
+* Smojooe QU-W c15-8
+1A = MR = PLATx3, MONAZx2, SERENx2, PAINx1, RHODx1
+1B = ROCKY = SERENx3, BENITx2, MONAZx1
+2 = MR = PAINx1, MONAZx1
+4A = ROCKY = SERENx1, MUSGx1, MONAZx1
+4B = ICY = VOx1, TRITx1, GRANDx1
+6 = ICY = TRITx2
+
+* Smojooe QU-W c15-10
+2A = ROCKY = ALEXx1, MONAZx1 
+2B = ICY = TRITx2, BROMx2, GRANDx1
+3 = ICY = ***GRANDx2/TRIT overlap***, VOx2, LTDx2, GRANDx1
+
 *
 
 *******************************************
@@ -242,5 +266,15 @@ A2 ZIRC 2.7% YTT 1.4% TUNG 1.3% MERC 1.0%
 
 * Smojooe SM-X b29-2
 1 ZIRC 2.6% TIN 1.5% RUTH 1.4% TUNG 1.2%
+
+* Smojooe AZ-T b31-2
+1 ZIRC 2.7% SELEN 2.6% CADM 1.8% YTT 1.4% TUNG 1.3%
+3b SELEN 4.3% CADM 1.0% RUTH 0.8% TIN 0.7%
+
+* Smojooe QU-W c15-8
+2b ZIRC 2.4% NIOB 1.4% TUNG 1.1% TECH 0.7%
+
+* Smojooe QU-W c15-10
+2a SELEN 4.2% CADM 1.0% NIOB 0.8% ANTI 0.8%
 
 *
