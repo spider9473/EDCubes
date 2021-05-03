@@ -41,12 +41,14 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe WH-X b29-0 (ELx1, HMTx1, WTx1)
 *) Smojooe LO-Y c14-2 (HMTx1, Wx1)
 *) Smojooe IT-Y c14-4 (HMTx1)
+*) Smojooe QD-T e3-2 (B-class star with 7 little T-stars)
+*) Smojooe JT-Y c14-8 (Ax1)
 *) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
 **********************************
-***  20                        ***
+***  21                        ***
 **********************************
 Listed:
 
@@ -70,6 +72,9 @@ Smojooe SM-X b29-1 (CMDR Bonkarma)
 Smojooe IT-Y c14-2 (CMDR Lorcann)
 Smojooe WS-V b30-2 (CMDR FEARLESS SLY)
 Smojooe AZ-T b31-0 (CMDR Lorcann)
+Smojooe JT-Y c14-7 (CMDR Eugene Che)
+Smojooe JT-Y c14-9 (CMDR Joshua1138)
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -199,6 +204,40 @@ AB5B = ICY = LTD/VO overlap, LTDx1, TRITx1
 2B = ICY = TRITx2, BROMx2, GRANDx1
 3 = ICY = ***GRANDx2/TRIT overlap***, VOx2, LTDx2, GRANDx1
 
+* Smojooe QU-W c15-5
+3 = ICY = LTD/BROM overlap, TRITx3, BROMx1, LTDx1
+4 = ICY = \
+5 = ICY = TRITx1, VOx1
+
+* Smojooe JT-Y c14-5
+2 = MR = RHODx1, PAINx1, SERENx1
+3A = MR = \
+3B = ROCKY = MUSGx2, BENITx1, ALEXx1, MONAZx1
+
+* Smojooe JT-Y c14-8
+7A = ROCKY = \
+7B = ICY = \
+9A = ROCKY = MUSGx2, BENITx1, SERENx1
+9B = ICY = LTDx3, VOx1, GRANDx1, ***ALEXx2 little overlap***
+
+* Smojooe JT-Y c14-9
+1 = MR = PLATx1, RHODx1, MONAZx1
+2A = ROCKY = BENITx5, MUSGx1, ALEXx1, SERENx1
+2B = ROCKY = ALEXx2, GRANDx1, BROMx1
+3 = ICY = GRANDx1
+
+* Smojooe KA-B b28-1
+1A = ROCKY = ALEX/SEREN overlap, ALEXx5, MUSGx3, MONAZx3, SERENx2, BENITx1
+1B = ROCKY = ***ALEXx2 overlap***, MONAZx4, ALEX/BENIT overlap, ALEXx2, BENITx5, SERENx4
+2 = ROCKY = SERENx2
+3 = ICY = GRANDx3
+4A = ROCKY = BENITx3, SERENx4, MONAZx2, MUSGx4, ALEXx1
+4B = ICY = TRIT/VO overlap, ALEXx3, LTDx1, GRANDx2, TRITx3
+5A = ROCKY = MONAZx1
+5B = ICY = \
+7 = ICY = VOx2, GRANDx2, LTDx3, BROMx1, TRITx1, ALEXx1
+9 = ICY = \
+
 *
 
 *******************************************
@@ -276,5 +315,21 @@ A2 ZIRC 2.7% YTT 1.4% TUNG 1.3% MERC 1.0%
 
 * Smojooe QU-W c15-10
 2a SELEN 4.2% CADM 1.0% NIOB 0.8% ANTI 0.8%
+
+* Smojooe QD-T e3-2
+7 ZIRC 2.6% NIOB 1.5% ANTI 1.0% MERC 1.0% (bio&geo)
+
+* Smojooe QU-W c15-5
+1 SELEN 2.4% NIOB 1.5% TIN 1.4% YTT 1.3%
+
+* Smojooe CZ-T b31-2
+A2 SELEN 2.4% CADM 1.7% TUNG 1.2% TELL 1.2%
+
+* Smojooe JT-Y c14-8
+1 ZIRC 4.2% NIOB 2.5% MOLY 2.3% RUTH 2.2%
+3 SELEN 2.5% NIOB 1.5% MERC 1.0% TECH 0.8%
+
+* Smojooe JT-Y c14-9
+1e SELEN 3.4% NIOB 1.2% RUTH 1.1% TUNG 1.0%
 
 *
