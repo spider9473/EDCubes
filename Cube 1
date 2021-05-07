@@ -44,12 +44,15 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe QD-T e3-2 (B-class star with 7 little T-Tauri stars)
 *) Smojooe JT-Y c14-8 (Ax1)
 *) Smojooe FN-A c14-8 (Wx1)
+*) Smojooe FN-A c14-7 (HMTx1)
+*) Smojooe CB-O d6-22 (HMTx2, ROCKY_T_MOON)
+*) Smojooe RG-Z b28-0 (HMTx1)
 *) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
 **********************************
-***  22                        ***
+***  23                        ***
 **********************************
 Listed:
 
@@ -75,6 +78,8 @@ Smojooe WS-V b30-2 (CMDR FEARLESS SLY)
 Smojooe AZ-T b31-0 (CMDR Lorcann)
 Smojooe JT-Y c14-7 (CMDR Eugene Che)
 Smojooe JT-Y c14-9 (CMDR Joshua1138)
+Smojooe CB-O d6-23 (CMDR Joshua1138)
+Smojooe CB-O d6-22 (CMDR Eugene Che, CMDR Otto_Rosso)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -261,6 +266,16 @@ AB5B = ICY = LTD/VO overlap, LTDx1, TRITx1
 * Smojooe FN-A c14-8
 5A = MR = PAINx1
 5B = ICY = BROMx2, TRITx1, LTDx1
+
+* Smojooe HN-A c14-2
+3A = MR = SERENx2, RHODx2, MONAZx2
+3B = ICY = LTDx3, ALEXx2, BROMx2, GRANDx1, VOx1
+
+* Smojooe HN-A c14-6
+1 = MR = \
+2A = MR = \
+2B = ICY = ALEXx1, VOx2
+5 = ICY = BROM/VO overlap, BROM/TRIT/LTD overlap, GRANDx3, VOx1, TRITx1, BROMx1, ALEXx1
 
 *
 
