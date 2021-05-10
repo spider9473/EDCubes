@@ -51,7 +51,13 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe GH-M d7-52 (2 PHENA (MET CRYST RUBEUMx2)
 *) Smojooe MO-Y c14-5 (HMTx3, WTx2)
 *) Smojooe ZS-V b30-1 (HMTx1)
-*)
+*) Smojooe GH-M d7-51 (HMTx3, Wx1, Ax1)
+*) Smojooe GH-M d7-49 (HMTx2)
+*) Smojooe LT-Y c14-10 (HMTx2, WTx1, Ax1)
+*) Smojooe PZ-W c15-3 (Wx1)
+*) Smojooe FK-S b32-0 (HMTx1)
+*) Smojooe WS-V b30-1 (Wx1)
+*) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -85,7 +91,12 @@ Smojooe JT-Y c14-9 (CMDR Joshua1138)
 Smojooe CB-O d6-23 (CMDR Joshua1138)
 Smojooe CB-O d6-22 (CMDR Eugene Che, CMDR Otto_Rosso)
 Smojooe PL-Z b28-1 (CMDR aequfire)
-
+Smojooe GH-M d7-51 (CMDR cowbee theybop)
+Smojooe KT-Y c14-6 (CMDR Johnny Spacepants)
+Smojooe GH-M d7-26 (CMDR Stalker k)
+Smojooe LT-Y c14-10 (CMDR un4givn61, CMDR Ray Jordan IV)
+Smojooe OZ-W c15-1 (CMDR tsilb)
+Smojooe UX-V b30-2 (CMDR Johnny Spacepants)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -313,7 +324,29 @@ A11 = ICY = \
 A12 = ICY = \
 B11 = ICY = TRITx3
 
-*
+* Smojooe GH-M d7-24
+2 = MR = PLAT/RHOD overlap, PAIN/MONAZ overlap, RHODx5, PLATx3, PAINx5, SERENx3, MONAZx1
+3 = MR = PLAT/MONAZ overlap, ***RHODx2 overlap***, MONAZ/RHOD overlap, SERENx5, RHODx1, MONAZx1, PLATx2, PAINx2
+4A = ROCKY = ALEXx1, SERENx1
+4B = ROCKY = SERENx1
+
+* Smojooe GH-M d7-51
+10 = ROCKY = ALEX/MUSG overlap, ALEXx1, MUSGx1
+11 = ICY = ALEXx1, LTDx1
+
+* Smojooe GH-M d7-27
+BC1 = ROCKY = MONAZx2
+BC2A = METAL = SERENx1, PLATx1
+BC2B = MR = PAIN/SEREN/MONAZ overlap, SERENx1, RHODx3, MONAZx3, PLATx1
+BC3A = ROCKY = ALEXx1, BENITx1, MUSGx2
+BC3B = ICY = ALEXx1, GRANDx1, VOx1, LTDx2, TRITx1, BROMx1
+BC5 = ICY = TRITx1, LTDx1
+
+* Smojooe AZ-T b31-1
+3A = ROCKY = SERENx2, ALEXx3, BENITx4, MUSGx4, MONAZx2
+3B = ICY = VOx1
+
+* 
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
@@ -423,4 +456,10 @@ A4 SELEN 2.4% TIN 1.4% RUTH 1.3% TUNG 1.2%
 * Smojooe ZS-V b30-0
 1 ZIRC 2.6% NIOB 1.6% MOLY 1.5% ANTI 1.0%
 
-*
+* Smojooe AT-V b30-0
+1 ZIRC 4.2% CADM 2.8% TUNG 2.0% TELL 0.6%
+
+* Smojooe GH-M d7-27
+C1 ZIRC 4.5% CADM 3.0% NIOB 2.7% ANTI 1.5%
+
+* 
