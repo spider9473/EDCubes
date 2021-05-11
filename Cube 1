@@ -97,6 +97,8 @@ Smojooe GH-M d7-26 (CMDR Stalker k)
 Smojooe LT-Y c14-10 (CMDR un4givn61, CMDR Ray Jordan IV)
 Smojooe OZ-W c15-1 (CMDR tsilb)
 Smojooe UX-V b30-2 (CMDR Johnny Spacepants)
+Smojooe JT-Y c14-4 (CMDR tsilb)
+Smojooe YS-V b30-1 (CMDR Johnny Spacepants)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -346,7 +348,50 @@ BC5 = ICY = TRITx1, LTDx1
 3A = ROCKY = SERENx2, ALEXx3, BENITx4, MUSGx4, MONAZx2
 3B = ICY = VOx1
 
-* 
+* Smojooe JT-Y c14-4
+2 = ICY = \
+3A = ROCKY = SERENx1
+3B = ICY = BROMx1, GRANDx1
+5 = ICY = \
+
+* Smojooe YS-V b30-2
+1A = MR = PAINx1
+1B = ICY = TRITx1
+2 = ICY = GRANDx1, ALEXx1, VOx1, LTDx1
+3 = ICY = ***GRANDx2 overlap***, GRANDx3, LTDx2, VOx2, TRITx1, BROMx1, ALEXx1
+4A = ROCKY = ALEX/MUSG overlap, SERENx2, ALEXx1, MUSGx1, MONAZx1
+4B = ICY = GRANDx1
+
+* Smojooe YS-V b30-0
+3 = MR = SERENx1, RHODx1, MONAZx1
+5A = MR = \
+5B = ICY = TRITx2, GRANDx2, ALEXx1, VOx1
+6 = ICY = GRAND/VO overlap, GRAND/ALEX overlap, ALEXx2, GRANDx2, LTDx1, VOx3, TRITx2, BROMx1
+8A = ROCKY = BENITx2, ALEXx1, MONAZx1
+8B = MR = MONAZ/PAIN overlap, RHODx1, SERENx1
+9A = MR = \
+9B = ICY = \
+
+* Smojooe YS-V b30-1
+B5 = ICY = BROMx1
+B8 = ICY = ALEXx2, VOx1, LTDx1, TRITx1, BROMx1
+
+* Smojooe JT-Y c14-2
+AB1 = MR = \
+AB3 = ROCKY = BENITx1
+AB5A = METAL = PAINx2, PLATx1, RHODx1, MONAZx1, SERENx1
+AB5B = ROCKY = MONAZx1
+
+* Smojooe JT-Y c14-3
+A2A = MR = SERENx2, RHODx4, MONAZx3, PLATx6, PAINx2
+A2B = MR = RHOD/PLAT overlap, SERENx1, RHODx1, MONAZx1, PAINx1
+A3A = MR = RHODx3, PLATx1, SERENx1, PAINx1
+A3B = ICY = \
+B1A = METAL = SERENx2, RHODx2, PAINx1
+B1B = ROCKY = SERENx2, MUSGx3
+B2 = ICY = GRANDx2, ALEXx1, BROMx1
+
+*
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
@@ -462,4 +507,7 @@ A4 SELEN 2.4% TIN 1.4% RUTH 1.3% TUNG 1.2%
 * Smojooe GH-M d7-27
 C1 ZIRC 4.5% CADM 3.0% NIOB 2.7% ANTI 1.5%
 
-* 
+* Smojooe JT-Y c14-2
+A1 MOLY 2.3% MERC 1.5% POLO 1.0%
+
+*
