@@ -59,6 +59,7 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe WS-V b30-1 (Wx1)
 *) Smojooe FH-M d7-38 (WTx1)
 *) Smojooe FH-M d7-31 (WTx1, HMTx1)
+*) Smojooe NZ-W c15-2 (WTx1, HMTx1)
 *) 
 
 **********************************
@@ -102,6 +103,7 @@ Smojooe UX-V b30-2 (CMDR Johnny Spacepants)
 Smojooe JT-Y c14-4 (CMDR tsilb)
 Smojooe YS-V b30-1 (CMDR Johnny Spacepants)
 Smojooe ZD-U b31-1 (CMDR Team Andy)
+Smojooe NZ-W c15-3 (CMDR Razanga)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -421,7 +423,29 @@ B2 = ICY = GRANDx2, ALEXx1, BROMx1
 3B = ICY = VO/GRAND overlap, ALEXx2, GRANDx3, VOx2, LTDx2, TRITx3
 4 = ICY = LTD/ALEX/BROM overlap, TRITx2, VOx1
 
-*
+* Smojooe NZ-W c15-5
+A2A = ROCKY = SERENx2, BENITx1
+A2B = ICY = GRANDx2
+A5A = MR = PLATx1
+A5B = ICY = \
+A6 = ICY = BROM/VO little overlap, ALEXx3, GRANDx4, VOx1, LTDx1, TRITx2, BROMx1
+
+* Smojooe NZ-W c15-3
+5A = ROCKY = SEREN/MUSG overlap, SERENx4, ALEXx4, BENITx3, MUSGx1, MONAZx1
+5B = ICY = GRAND/LTD/VO overlap, ALEXx1, LTDx1
+6A = MR = \
+6B = ICY = \
+7 = ICY = LTDx1, GRANDx2, TRITx2, ALEXx1
+
+* Smojooe FH-M d7-35
+3 = MR = PAINx1, RHODx2
+
+* Smojooe YD-U b31-1
+9A = ROCKY = BENITx2, SERENx1, ALEXx1
+9B = ICY = LTDx3, GRANDx1, VOx1
+10 = ICY = BROMx1, LTDx1
+
+* 
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
