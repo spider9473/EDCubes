@@ -4,6 +4,8 @@
 SPIDER CUBE ONE
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 started from Smojooe GH-M d7-4
+PAUSE FROM Smojooe FH-M d7-24
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Corners:
 Smojooe KA-S b32-2
@@ -60,6 +62,7 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe FH-M d7-38 (WTx1)
 *) Smojooe FH-M d7-31 (WTx1, HMTx1)
 *) Smojooe NZ-W c15-2 (WTx1, HMTx1)
+*) Smojooe FH-M d7-24 (WTx2, HMTx1)
 *) 
 
 **********************************
@@ -104,6 +107,7 @@ Smojooe JT-Y c14-4 (CMDR tsilb)
 Smojooe YS-V b30-1 (CMDR Johnny Spacepants)
 Smojooe ZD-U b31-1 (CMDR Team Andy)
 Smojooe NZ-W c15-3 (CMDR Razanga)
+Smojooe FH-M d7-24 (CMDR cowbee theybop, CMDR tsilb)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -477,7 +481,14 @@ AB2 = ICY = TRITx1
 5B = ICY = \
 6 = ICY = ALEX/GRAND/LTD overlap, GRANDx1, BROMx1
 
-*
+* Smojooe MZ-W c15-5
+A1A = ROCKY = MUSGx1, BENITx1
+A1B = MR = MONAZx1. PLATx2, PAINx1
+A3A = ROCKY = SERENx2, MUSGx1
+A3B = ICY = GRANDx2, VOx1, LTDx1
+A4 = ICY = VOx3, BROMx3, GRANDx1, ALEXx1
+
+* 
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
