@@ -445,7 +445,39 @@ A6 = ICY = BROM/VO little overlap, ALEXx3, GRANDx4, VOx1, LTDx1, TRITx2, BROMx1
 9B = ICY = LTDx3, GRANDx1, VOx1
 10 = ICY = BROMx1, LTDx1
 
-* 
+* Smojooe YD-U b31-2
+1 = ICY = LTDx2, GRANDx1, VOx1, TRITx1
+2A = ROCKY = SERENx1, MONAZx1
+2B = ICY = \
+3A = MR = PLATx2, RHODx1, SERENx2, PAINx1
+3B = ICY = TRITx2, LTDx2, GRANDx1, BROMx1
+5A = ROCKY = SERENx1
+5B = ICY = BROM/VO overlap, VOx3, BROMx2, GRANDx1
+6 = ICY = \
+
+* Smojooe YD-U b31-0
+AB1 = ICY = \
+AB2 = ICY = TRITx1
+
+* Smojooe FH-M d7-46
+1A = MR = MONAZx3
+1B = ROCKY = MONAZx3, BENITx1, SERENx1, MUSGx1
+2 = MR = RHODx1, MONAZx1
+3A = MR = \
+3B = MR = SERENx2, RHODx1, PLATx1, MONAZx1
+
+* Smojooe MZ-W c15-2
+1A = MR = SERENx5, RHODx4, MONAZx4, PAINx6, PLATx4
+1B = ROCKY = ALEXx2, BENITx1
+2A = MR = PAINx1, SERENx1, MONAZx1
+2B = ICY = VOx2, ALEXx2
+3 = ICY = LTD/ALEX overlap, VO/GRAND overlap, ALEXx3, GRANDx3, VOx4, TRITx5, BROMx4
+4 = ICY = VOx1, GRANDx1
+5A = ROCKY = SERENx2, MUSGx1, BENITx1
+5B = ICY = \
+6 = ICY = ALEX/GRAND/LTD overlap, GRANDx1, BROMx1
+
+*
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
