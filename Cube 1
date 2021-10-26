@@ -3,8 +3,10 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 SPIDER CUBE ONE
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-started from Smojooe GH-M d7-4
-PAUSE FROM Smojooe FH-M d7-24
+started from Smojooe GH-M d7-4 (2982)
+PAUSE FROM Smojooe FH-M d7-24 (3237)
+BEGINNING FROM Smojooe BE-U b31-2 (3729)
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Corners:
@@ -19,10 +21,7 @@ Smojooe EJ-D b27-0
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Started 20210419
-3203 SV before jumping into first system
-####-1 SV at end of cube (### total systems in cube)
-PROFITS FROM EXPLORATION BEFORE JUMPING INTO CUBE: 839,822,971
-PROFITS FROM EXPLORATION AT END OF CUBE: #,###,###,###
+#### SV at end of cube (### total systems in cube)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 POI
@@ -63,6 +62,10 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe FH-M d7-31 (WTx1, HMTx1)
 *) Smojooe NZ-W c15-2 (WTx1, HMTx1)
 *) Smojooe FH-M d7-24 (WTx2, HMTx1)
+*) Smojooe GH-M d7-40 (A3f:6 bio signals: bact, cactoida, osseus, stratum, shrubs, tussock)
+*) Smojooe OZ-W c15-6 (HMTx1)
+*) Smojooe WX-V b30-1 (B5:2 bio signals: bact, fonticulua; B6:2 bio signals: bact, fonticulua)
+*) Smojooe BP-S b32-2 (A6:2 bio signals: bact, fonticulua)
 *) 
 
 **********************************
@@ -108,6 +111,9 @@ Smojooe YS-V b30-1 (CMDR Johnny Spacepants)
 Smojooe ZD-U b31-1 (CMDR Team Andy)
 Smojooe NZ-W c15-3 (CMDR Razanga)
 Smojooe FH-M d7-24 (CMDR cowbee theybop, CMDR tsilb)
+Smojooe GH-M d7-40 (CMDR Erot)
+Smojooe AE-U b31-0 (CMDR Tytonidae)
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -488,7 +494,40 @@ A3A = ROCKY = SERENx2, MUSGx1
 A3B = ICY = GRANDx2, VOx1, LTDx1
 A4 = ICY = VOx3, BROMx3, GRANDx1, ALEXx1
 
-* 
+* Smojooe GH-M d7-40
+A2A = METAL = SERENx1, RHODx2, MONAZx3, PLATx6, PAINx3
+A2B = ROCKY = ALEXx1
+A3A = ROCKY = SERENx1
+A3B = ROCKY = MUSGx1
+A4 = MR = PAINx1, SERENx1, MONAZx1
+
+* Smojooe GH-M d7-41
+A1 = ROCKY = \
+
+* Smojooe GH-M d7-42
+1A = ROCKY = \
+1B = MR = \
+2A = ROCKY = SERENx2, ALEXx2, BENITx1, MUSGx3, MONAZx3
+2B = ROCKY = MUSG/MONAZ overlap, BENIT/MUSG overlap, BENITx1, MONAZx1, MUSGx2
+3A = MR = SERENx4, RHODx1, MONAZx1, PAINx1
+3B = ROCKY = \
+4 = ROCKY = SERENx1, MONAZx1, ALEXx1
+5 = MR = PAINx1, SERENx1, MONAZx1
+6A = ROCKY = MUSGx1, BENITx1, MONAZx2
+6B = MR = RHODx2
+
+* Smojooe RC-W b30-1
+3 = MR = \
+4A = MR = \
+4B = ROCKY = SERENx2, ALEXx1
+5 = ICY = GRAND/TRIT overlap, ALEXx1, GRANDx1, VOx2
+6A = ROCKY = SERENx5, BENITx1
+6B = ICY = TRITx3, ALEXx2, GRANDx1
+7 = ROCKY = \
+7g = ICY = BROMx1, GRANDx1
+8 = ROCKY = BENIT/MUSG overlap, BENIT/SEREN overlap, ALEXx1, BENITx2, MUSGx3
+
+*
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
@@ -606,5 +645,14 @@ C1 ZIRC 4.5% CADM 3.0% NIOB 2.7% ANTI 1.5%
 
 * Smojooe JT-Y c14-2
 A1 MOLY 2.3% MERC 1.5% POLO 1.0%
+
+* Smojooe GH-M d7-41
+A1a SELEN 2,9% CADM 1,5% TIN 1,1% TECH 0,7%
+
+* Smojooe BE-U b31-1
+8 SELEN 3,6% GERM 3,4% NIOB 1,1% TIN 1,0% RUTH 1,0%
+
+* Smojooe RC-W b30-1
+3 SELEN 2,5% CADM 1,8% TUNG 1,2% TECH 0,8
 
 *
