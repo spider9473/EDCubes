@@ -66,6 +66,7 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe OZ-W c15-6 (HMTx1)
 *) Smojooe WX-V b30-1 (B5:2 bio signals: bact, fonticulua; B6:2 bio signals: bact, fonticulua)
 *) Smojooe BP-S b32-2 (A6:2 bio signals: bact, fonticulua)
+*) Smojooe IY-Y c14-1 (HMTx2)
 *) 
 
 **********************************
@@ -113,6 +114,8 @@ Smojooe NZ-W c15-3 (CMDR Razanga)
 Smojooe FH-M d7-24 (CMDR cowbee theybop, CMDR tsilb)
 Smojooe GH-M d7-40 (CMDR Erot)
 Smojooe AE-U b31-0 (CMDR Tytonidae)
+Smojooe PD-T e3-5 (CMDR Liol Calvert)
+Smojooe IY-Y c14-1 (CMDR Commodore Brock)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -527,7 +530,28 @@ A1 = ROCKY = \
 7g = ICY = BROMx1, GRANDx1
 8 = ROCKY = BENIT/MUSG overlap, BENIT/SEREN overlap, ALEXx1, BENITx2, MUSGx3
 
-*
+* Smojooe VX-V b30-1
+A1A = MR = MONAZx1, PAINx2, PLATx1
+A1B = ROCKY = MONAZ/BENIT overlap, SEREN/BENIT overlap, MONAZx1, ALEXx1
+A2 = ICY = ALEXx1
+A3A = ROCKY = SERENx1
+A3B = ICY = LTD/ALEX overlap, !!!BROMx2 little overlap!!!, ALEXx2, GRANDx2, LTDx3, VOx1, TRITx3, BROMx5
+A4A = MR = \
+A4B = ICY = BROMx1, GRANDx1
+
+* Smojooe IY-Y c14-1
+8 = ROCKY = SERENx3, BENITx4, MONAZx1, MUSGx3
+10 = ICY = BROMx1, ALEXx2, GRANDx1
+11 = ICY = BROM/TRIT overlap, LTDx2, VOx1, BROMx1
+
+* Smojooe UC-W b30-1
+8A = MR = RHODx2, MONAZx1, PLATx1
+8B = ICY = \
+9A = MR = SERENx4, RHODx2, PLATx2, PAINx4
+9B = ICY = ALEXx1, GRANDx2, LTDx2
+11 = MR = RHODx1
+
+* 
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
