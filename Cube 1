@@ -49,7 +49,7 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe CB-O d6-22 (HMTx2, ROCKY_T_MOON)
 *) Smojooe RG-Z b28-0 (HMTx1)
 *) Smojooe MX-U e2-5 (HMTx1)
-*) Smojooe GH-M d7-52 (2 PHENA (MET CRYST RUBEUMx2)
+*) Smojooe GH-M d7-52 (2 PHENA (MET CRYST RUBEUMx2))
 *) Smojooe MO-Y c14-5 (HMTx3, WTx2)
 *) Smojooe ZS-V b30-1 (HMTx1)
 *) Smojooe GH-M d7-51 (HMTx3, Wx1, Ax1)
@@ -67,6 +67,12 @@ INNER ORION SPUR CUBE#1 POI
 *) Smojooe WX-V b30-1 (B5:2 bio signals: bact, fonticulua; B6:2 bio signals: bact, fonticulua)
 *) Smojooe BP-S b32-2 (A6:2 bio signals: bact, fonticulua)
 *) Smojooe IY-Y c14-1 (HMTx2)
+*) Smojooe KT-Y c14-9 (7:2 bio signals: bact, fonticulua)
+*) Smojooe FN-A c14-1 (HMTx2, Wx1, 1 PHENA (MET CRYST RUBEUM))
+*) Smojooe FN-A c14-2 (AB1a:4 bio signals: bact, fungoida, tussock, aleoida)
+*) Smojooe RR-X b29-0 (Wx1, Ax1)
+*) Smojooe IF-B b28-2 (A1 E=0.9089)
+*) Smojooe HF-B b28-1 (B2:2 bio signals: bact, fonticulua)
 *) 
 
 **********************************
@@ -116,6 +122,10 @@ Smojooe GH-M d7-40 (CMDR Erot)
 Smojooe AE-U b31-0 (CMDR Tytonidae)
 Smojooe PD-T e3-5 (CMDR Liol Calvert)
 Smojooe IY-Y c14-1 (CMDR Commodore Brock)
+Smojooe VC-W b30-0 (CMDR Liol Calvert)
+Smojooe TR-X b29-0 (CMDR Razanga)
+Smojooe FN-A c14-2 (CMDR aequfire)
+Smojooe BB-O d6-54 (CMDR Otto_Rosso)
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -551,7 +561,26 @@ A4B = ICY = BROMx1, GRANDx1
 9B = ICY = ALEXx1, GRANDx2, LTDx2
 11 = MR = RHODx1
 
-* 
+* Smojooe VC-W b30-0
+11 = ICY = TRITx1, ALEXx1, GRANDx2, VOx1
+
+* Smojooe FN-A c14-1
+A13 = ICY = GRAND/BROM/LTD overlap, TRIT/GRAND/BROM/ALEX/TRIT overlap!!!, TRIT/VO/GRAND overlap, ALEXx1, GRANDx4, LTDx3, VOx2, BROMx3
+A14A = MR = SERENx1, PAINx1
+A14B = ICY = BROMx1
+
+* Smojooe RR-X b29-0
+5A = ROCKY = \
+5B = ICY = \
+
+* Smojooe BB-O d6-54
+5 = MR = PLATx1
+
+* Smojooe IF-B b28-2
+A4A = ROCKY = ALEXx1
+A4B = ICY = GRANDx1
+
+*
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
@@ -679,4 +708,7 @@ A1a SELEN 2,9% CADM 1,5% TIN 1,1% TECH 0,7%
 * Smojooe RC-W b30-1
 3 SELEN 2,5% CADM 1,8% TUNG 1,2% TECH 0,8
 
-*
+* Smojooe FN-A c14-1
+A1 CADM 2,5% TIN 2,1% RUTH 2,0%
+
+* 
