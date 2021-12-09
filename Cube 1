@@ -78,7 +78,9 @@ INNER ORION SPUR CUBE#1 POI
 49) Smojooe BB-O d6-53 (Wx1, 6c: 7 bio signals: bact, Aleoida, Cactoida, Osseus, Stratum, Frutexa, Tussock; 6d: 7 bio signals: bact, Cactoida, Fungoida, Osseus, Stratum, Frutexa, Tussock)
 50) Smojooe BB-O d6-52 (6f: 3 bio signals: bact, Cactoida, Osseus; 6g: 4 bio signals: bact, Aleoida, Cactoida, Osseus; 6h: 3 bio signals: bact, Cactoida, Osseus; 6i: 4 bio signals: bact, Aleoida, Cactoida, Osseus)
 51) Smojooe GN-A c14-7 (HMTx2)
-52) 
+52) Smojooe LF-B b28-0 (HMTx1, WTx1, ELx1)
+53) Smojooe MF-B b28-1 (HMTx2)
+54) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -627,6 +629,21 @@ A5 = ICY = BROM/ALEX overlap, GRANDx2/BROM overlap!!!, TRIT/LTD overlap, ALEXx1,
 BCD2A = MR = SERENx3
 BCD2B = ICY = VOx1, GRANDx1
 BCD3 = ICY = LTDx1, TRITx1, BROMx2
+
+* Smojooe LF-B b28-0
+AB2 = ICY = BROMx2/ALEX/TRIT overlap!!!, TRITx3, BROMx3, GRANDx1, VOx3
+AB3A = ROCKY = ALEXx1, BENITx1, MONAZx2, MUSGx1
+AB3B = ICY = GRAND/TRIT overlap, GRAND/ALEX overlap, TRITx3, ALEXx1, GRANDx1
+AB4 = ICY = \
+
+* Smojooe JK-B b28-0
+1A = ROCKY = SERENx1, ALEXx3, MONAZx5, MUSGx2
+1B = ICY = BROMx1, ALEXx2
+2A = ROCKY = ALEXx1, MUSGx1, MONAZx3
+2B = ICY = \
+
+* Smojooe NQ-Z b28-1
+A8 = ICY = TRITx1, BROMx4, GRANDx2, VOx1
 
 *
 
