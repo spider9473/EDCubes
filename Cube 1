@@ -80,7 +80,8 @@ INNER ORION SPUR CUBE#1 POI
 51) Smojooe GN-A c14-7 (HMTx2)
 52) Smojooe LF-B b28-0 (HMTx1, WTx1, ELx1)
 53) Smojooe MF-B b28-1 (HMTx2)
-54) 
+54) Smojooe AG-O d6-16 (3f: 4 bio signals: bact, Cactoida, Fungoida, Osseus)
+55) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -136,7 +137,9 @@ Listed:
 45) Smojooe BB-O d6-53 (CMDR STar control 2)
 46) Smojooe BB-O d6-52 (CMDR Team Andy)
 47) Smojooe KF-B b28-2 (CMDR Team Andy)
-48) 
+48) Smojooe RW-X b29-1 (CMDR STar control 2)
+49) Smojooe RW-X b29-0 (Lucky_Sevyn)
+50) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -645,7 +648,19 @@ AB4 = ICY = \
 * Smojooe NQ-Z b28-1
 A8 = ICY = TRITx1, BROMx4, GRANDx2, VOx1
 
-*
+* Smojooe AG-O d6-16
+1A = ROCKY = \
+1B = ROCKY = \
+
+* Smojooe NQ-Z b28-0
+1A = ROCKY = \
+1B = MR = \
+4A = ROCKY = \
+4B = ICY = VOx1, LTDx2, BROMx1
+5 = ICY = TRITx1, VOx1, LTDx1
+6 = ICY = \
+
+* 
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
