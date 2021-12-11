@@ -81,7 +81,12 @@ INNER ORION SPUR CUBE#1 POI
 52) Smojooe LF-B b28-0 (HMTx1, WTx1, ELx1)
 53) Smojooe MF-B b28-1 (HMTx2)
 54) Smojooe AG-O d6-16 (3f: 4 bio signals: bact, Cactoida, Fungoida, Osseus)
-55) 
+55) Smojooe NE-X c15-0 (HMTx1)
+56) Smojooe ME-X c15-4 (WTx1, 2 PHENA (MET CRYST FLAVUM, PURPUREUM; PRASINUM, FLAVUM))
+57) Smojooe ZI-U b31-2 (A7: 4 bio signals: bact, Fungoida, Osseus, Tussock)
+58) Smojooe ME-X c15-3 (WTx1)
+59) Smojooe EM-M d7-34 (Wx1)
+60) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -139,7 +144,11 @@ Listed:
 47) Smojooe KF-B b28-2 (CMDR Team Andy)
 48) Smojooe RW-X b29-1 (CMDR STar control 2)
 49) Smojooe RW-X b29-0 (Lucky_Sevyn)
-50) 
+50) Smojooe VC-W b30-1 (CMDR Tytonidae)
+51) Smojooe BU-S b32-2 (CMDR Escapac)
+52) Smojooe ZI-U b31-1 (CMDR migelko)
+53) Smojooe YI-U b31-1 (CMDR Zunaro)
+54) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -660,7 +669,46 @@ A8 = ICY = TRITx1, BROMx4, GRANDx2, VOx1
 5 = ICY = TRITx1, VOx1, LTDx1
 6 = ICY = \
 
-* 
+* Smojooe VC-W b30-2
+8A = ROCKY = MUSGx2, MONAZx1
+8B = ICY = \
+10A = ROCKY = SERENx2, BENITx2, MONAZx3, MUSGx1
+10B = ICY = ALEXx1
+12 = ICY = \
+
+* Smojooe DP-S b32-1
+2A = MR = SERENx1
+2B = ICY = GRANDx1, LTDx1
+3A = MR = PLATx2, MONAZx2, RHODx1
+3B = ICY = TRIT/GRAND overlap, TRITx1, LTDx2
+5 = ICY = ALEX/LTD overlap, BROMx1, TRITx1
+
+* Smojooe BU-S b32-2
+BC4A = ROCKY = \
+BC4B = ICY = BROMx3
+BC5 = ICY = \
+BC6A = ROCKY = SERENx1, BENITx3, MONAZx2, MUSGx1
+BC6B = ICY = GRANDx2, VOx3, LTDx4, TRITx2, BROMx1
+BC7 = ICY = \
+
+* Smojooe BU-S b32-1
+1 = ICY = BROMx1, LTDx1
+
+* Smojooe EM-M d7-34
+1 = MR = PLAT/SEREN/MONAZ overlap, SERENx1, RHODx3, PLATx1, PAINx2
+2A = ROCKY = SERENx2, ALEXx2, BENITx1
+2B = MR = RHODx2, MONAZx3, PLATx3, PAINx2
+3A = MR = \
+3B = ROCKY = MUSGx2, ALEXx1, SERENx1, MONAZx1
+
+* Smojooe YI-U b31-1
+3A = ROCKY = ALEXx2, SERENx1, MONAZx1, BENITx1
+3B = ICY = TRITx2, LTDx1
+4A = MR = \
+4B = ICY = ALEXx2, VOx1
+5 = ICY = GRAND/VO/GRAND overlap, TRITx1, ALEXx1, LTDx1, 
+
+*
 
 *******************************************
 *** GRADE 4 & 5 ********* GRADE 3       ***
