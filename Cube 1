@@ -90,7 +90,8 @@ INNER ORION SPUR CUBE#1 POI
 61) Smojooe LE-X c15-0 (HMTx2)
 62) Smojooe LE-X c15-2 (HMTx2, WTx1)
 63) Smojooe DM-M d7-6 (Ax1)
-64) 
+64) Smojooe ZF-O d6-22 (HMTx2)
+65) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -156,7 +157,8 @@ Listed:
 55) Smojooe LE-X c15-2 (CMDR Sherpa tsi)
 56) Smojooe DM-M d7-6 (CMDR Lucky_Sevyn)
 57) Smojooe SC-W b30-0 (CMDR General_Becks)
-58) 
+58) Smojooe PD-T e3-0 (CMDR Wolga Weise)
+59) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -741,6 +743,27 @@ C3 = ICY = GRANDx1
 4B = ICY = TRITx1, BROMx1, ALEXx5, GRANDx2, VOx3
 5 = ICY = TRITx3, VOx1
 
+* Smojooe DM-M d7-4
+2 = MR = \
+3 = MR = RHODx2, MONAZx3, PAINx2, PLATx1
+4 = ROCKY = SERENx1, BENITx2, MONAZx1, MUSGx2
+
+* Smojooe HY-Y c14-6
+1 = MR = \
+2 = ROCKY = \
+3 = ICY = ALEXx1
+5A = ROCKY = SERENx1, MONAZx1
+5B = ICY = \
+5C = ICY = (404 NOT FOUND)
+
+* Smojooe HY-Y c14-0
+1 = ROCKY = BENITx1
+2 = ICY = TRITx2, GRANDx1, VOx1
+3A = ROCKY = ALEXx1, MONAZx1
+3B = ICY = BROMx2, ALEXx2, GRANDx1, LTDx1
+4A = ROCKY = ALEXx2, BENITx1
+4B = ICY = ALEXx1, GRANDx1, LTDx4, VOx5, TRITx1, BROMx2
+
 * 
 
 *******************************************
@@ -878,5 +901,8 @@ D4 ZIRC 2,7% SELEN 2,6% CADM 1,8% TIN 1,5% RUTH 1,4%
 
 * Smojooe LE-X c15-1
 B3 ZIRC 2,8% CADM 1,8% YTT 1,4% MERC 1,0%
+
+* Smojooe DM-M d7-4
+5a ZIRC 2,3% TELL 1,5% NIOB 1,3% MOLY 1,3%
 
 * 
