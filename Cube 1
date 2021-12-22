@@ -91,7 +91,8 @@ INNER ORION SPUR CUBE#1 POI
 62) Smojooe LE-X c15-2 (HMTx2, WTx1)
 63) Smojooe DM-M d7-6 (Ax1)
 64) Smojooe ZF-O d6-22 (HMTx2)
-65) 
+65) Smojooe DS-A c14-3 (HMTx4)
+66) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -158,7 +159,9 @@ Listed:
 56) Smojooe DM-M d7-6 (CMDR Lucky_Sevyn)
 57) Smojooe SC-W b30-0 (CMDR General_Becks)
 58) Smojooe PD-T e3-0 (CMDR Wolga Weise)
-59) 
+59) Smojooe ZF-O d6-29 (CMDR Sherpa tsi)
+60) Smojooe ZF-O d6-17 (CMDR STar control 2)
+61) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -763,6 +766,32 @@ C3 = ICY = GRANDx1
 3B = ICY = BROMx2, ALEXx2, GRANDx1, LTDx1
 4A = ROCKY = ALEXx2, BENITx1
 4B = ICY = ALEXx1, GRANDx1, LTDx4, VOx5, TRITx1, BROMx2
+
+* Smojooe DS-A c14-3
+A10 = ICY = TRIT/BROM overlap
+B2 = ROCKY = MONAZx1
+B4A = MR = RHODx1
+B4B = ICY = VOx1
+B5A = MR = SERENx1, RHODx2, MONAZx3, PLATx2, PAINx10
+B5B = ICY = LTDx1
+B6A = MR = PLATx1, MONAZx1
+B6B = ICY = ALEX/BROM overlap, LTD/VOx2 overlap!!!, GRANDx3, LTDx3, VOx2, TRITx2, BROMx3
+
+* Smojooe DS-A c14-4
+2A = ROCKY = ALEXx1, BENITx1
+2B = ICY = TRITx1, BROMx2, GRANDx1
+4A = ROCKY = BENITx2, MUSGx3, MONAZx1
+4B = ICY = LTDx1
+
+* Smojooe ZF-O d6-29
+1A = ROCKY = MUSGx3, BENITx1, ALEXx1
+1B = MR = PAINx1, MONAZx1, PLATx1
+3A = ROCKY = MONAZx1
+3B = ICY = GRANDx1, LTDx1
+
+* Smojooe ZF-O d6-17
+1 = ROCKY = SERENx1, MUSGx1
+2 = ROCKY = SERENx2, ALEXx2, BENITx1
 
 * 
 
