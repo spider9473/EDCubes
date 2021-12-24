@@ -93,7 +93,13 @@ INNER ORION SPUR CUBE#1 POI
 64) Smojooe ZF-O d6-22 (HMTx2)
 65) Smojooe DS-A c14-3 (HMTx4)
 66) Smojooe ZF-O d6-16 (Ax1)
-67) 
+67) Smojooe FP-B b28-2 (Wx1, WTx1)
+68) Smojooe GN-A c14-1 (HMTx1)
+69) Smojooe ZF-O d6-12 (HMTx2)
+70) Smojooe MQ-Z b28-1 (3a: 3 bio signals: bact, Fumerola, Fonticulua)
+71) Smojooe ZF-O d6-27 (1e: 3 bio signals: bact, Cactoida, Osseus; 2d: 3 bio signals: bact, Aleoida, Fungoida; 2e: 4 bio signals: bact, Cactoida, Fungoida, Osseus; 2f: 4 bio signals: bact, Cactoida, Fungoida, Osseus)
+72) Smojooe IY-Y c14-8 (HMTx1, Ax2)
+73) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -163,7 +169,11 @@ Listed:
 59) Smojooe ZF-O d6-29 (CMDR Sherpa tsi)
 60) Smojooe ZF-O d6-17 (CMDR STar control 2)
 61) Smojooe ZF-O d6-15 (CMDR Tara Duran)
-62) 
+62) Smojooe HK-B b28-1 (CMDR Commodore Brock)
+63) Smojooe ZF-O d6-12 (CMDR biohazard15)
+64) Smojooe MQ-Z b28-0 (CMDR Zunaro)
+65) Smojooe IY-Y c14-8 (CMDR General_Becks)
+66) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -816,6 +826,20 @@ B4B = ICY = ALEXx1, GRANDx1
 * Smojooe ZF-O d6-16
 3 = MR = \
 
+* Smojooe FP-B b28-2
+6A = MR = SERENx2, RHODx1, PAINx1
+6B = ICY = TRIT/BROM overlap, ALEXx3, GRANDx1, VOx1, LTDx4, TRITx1, BROMx4
+
+* Smojooe MQ-Z b28-1
+3 = ICY = \
+
+* Smojooe ZF-O d6-27
+1 = ROCKY = \
+2 = ROCKY = MONAZx1
+
+* Smojooe IY-Y c14-8
+BC2 = ICY = LTDx1
+
 * 
 
 *******************************************
@@ -956,5 +980,8 @@ B3 ZIRC 2,8% CADM 1,8% YTT 1,4% MERC 1,0%
 
 * Smojooe DM-M d7-4
 5a ZIRC 2,3% TELL 1,5% NIOB 1,3% MOLY 1,3%
+
+* Smojooe ZF-O d6-12
+A1 ZIRC 2,6% CADM 1,8% TIN 1,5% ANTI 1,0%
 
 * 
