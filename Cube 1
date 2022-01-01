@@ -99,7 +99,10 @@ INNER ORION SPUR CUBE#1 POI
 70) Smojooe MQ-Z b28-1 (3a: 3 bio signals: bact, Fumerola, Fonticulua)
 71) Smojooe ZF-O d6-27 (1e: 3 bio signals: bact, Cactoida, Osseus; 2d: 3 bio signals: bact, Aleoida, Fungoida; 2e: 4 bio signals: bact, Cactoida, Fungoida, Osseus; 2f: 4 bio signals: bact, Cactoida, Fungoida, Osseus)
 72) Smojooe IY-Y c14-8 (HMTx1, Ax2)
-73) 
+73) Smojooe IY-Y c14-0 (HMTx1, Wx1)
+74) Smojooe DM-M d7-37 (HMTx1)
+75) Smojooe ZF-O d6-28 (4c: 5 bio signals: bact, Stratum, Tubus, Frutexa, Tussock; 4d: 9 bio signals: bact, Aleoida, Cactoida, Concha, Fungoida, Osseus, Stratum, Frutexa, Tussock)
+76) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -173,7 +176,11 @@ Listed:
 63) Smojooe ZF-O d6-12 (CMDR biohazard15)
 64) Smojooe MQ-Z b28-0 (CMDR Zunaro)
 65) Smojooe IY-Y c14-8 (CMDR General_Becks)
-66) 
+66) Smojooe IY-Y c14-0 (CMDR Commodore Brock)
+67) Smojooe IY-Y c14-7 (CMDR Zunaro)
+68) Smojooe ZF-O d6-37 (CMDR Puzomozg)
+69) Smojooe DS-A c14-1 (CMDR Otacon231k)
+70) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -840,6 +847,71 @@ B4B = ICY = ALEXx1, GRANDx1
 * Smojooe IY-Y c14-8
 BC2 = ICY = LTDx1
 
+* Smojooe IY-Y c14-0
+11A = ROCKY = SERENx6, ALEXx3, BENITx5, MONAZx2, MUSGx6
+11B = ICY = ALEXx1
+
+* Smojooe QW-X b29-0
+2 = ICY = \
+3 = ICY = BROMx1
+5 = ICY = ALEXx1, VOx2
+
+* Smojooe IY-Y c14-7
+8 = ICY = \
+
+* Smojooe IY-Y c14-6
+2 = ROCKY = \
+3 = ICY = BROMx2, LTDx1, GRANDx1
+
+* Smojooe HY-Y c14-1
+2 = ROCKY = ALEXx2, MUSGx1, MONAZx2
+4 = MET = SERENx1
+
+* Smojooe DM-M d7-37
+B5A = MR = SERENx3, RHODx1, MONAZx3
+B5B = ICY = BROMx1, GRANDx1, VOx1, LTDx1
+B6 = ICY = BROMx1, ALEXx2
+
+* Smojooe ZF-O d6-28
+1 = ROCKY = ALEXx2, MUSGx2
+2A = ROCKY = BENITx1
+2B = MR = PLATx2, PAINx1
+3A = MR = MONAZx1
+3B = ROCKY = ALEXx2, BENITx4
+4 = MR = SERENx1, RHODx1
+
+* Smojooe CP-B b28-1
+ABC1A = MR = MONAZx1
+ABC1B = ICY = \
+ABC2A = ROCKY = MUSGx2, SERENx3
+ABC2B = ICY = LTDx2, VOx3, TRITx1, BROMx2
+
+* Smojooe CP-B b28-0
+1 = ICY = LTDx2, GRANDx1, TRITx1
+3A = MR = SERENx1
+3B = ICY = ALEX/VO overlap, ALEXx3, GRANDx2, LTDx4, VOx1, TRITx1, BROMx1
+4 = ICY = BROM/LTD overlap, BROMx1, ALEXx1, GRANDx1, LTDx1
+
+* Smojooe ZF-O d6-37
+A5A = MR = SERENx1
+A5B = ROCKY = SERENx1, BENITx1
+A6 = ROCKY = \
+B1 = ICY = \
+B2 = ICY = BROM/LTD overlap, VOx1, LTDx1, TRITx1, ALEXx2
+B3 = ICY = BROMx1, ALEXx2, GRANDx1, VOx2
+B4 = ICY = LTD/TRIT overlap, GRANDx2, VOx2, LTDx4
+
+* Smojooe DS-A c14-1
+ABC1A = MR = MONAZx1, PLATx1, PAINx2
+ABC1B = MR = SERENx1, RHODx1, MONAZx1, PAINx1
+ABC2A = MET = PAINx1, PLATx1
+ABC2B = ROCKY = MONAZx1
+ABC3 = MR = RHODx1, PLATx1
+ABC4 = ROCKY = SERENx2, BENITx3, MONAZx3, MUSGx2
+ABC5 = ROCKY = SERENx2, ALEXx1, MONAZx1, MUSGx1
+ABC6A = MR = MONAZx1
+ABC6B = ROCKY = MONAZx2
+
 * 
 
 *******************************************
@@ -983,5 +1055,17 @@ B3 ZIRC 2,8% CADM 1,8% YTT 1,4% MERC 1,0%
 
 * Smojooe ZF-O d6-12
 A1 ZIRC 2,6% CADM 1,8% TIN 1,5% ANTI 1,0%
+
+* Smojooe ZF-O d6-28
+1 ZIRC 4,2% NIOB 2,5% YTT 2,2% MERC 1,6%
+
+* Smojooe CP-B b28-1
+C2 ZIRC 2,7% NIOB 1,6% TIN 1,5% ANTI 1,0% 
+
+* Smojooe ZF-O d6-37
+A3 CADM 2,6% NIOB 2,3% RUTH 2,1% 
+
+* Smojooe DS-A c14-1
+AB4 ZIRC 2,6% TIN 1,5% MOLY 1,5% POLO 0,6%
 
 * 
