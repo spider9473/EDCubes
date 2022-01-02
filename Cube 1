@@ -102,7 +102,10 @@ INNER ORION SPUR CUBE#1 POI
 73) Smojooe IY-Y c14-0 (HMTx1, Wx1)
 74) Smojooe DM-M d7-37 (HMTx1)
 75) Smojooe ZF-O d6-28 (4c: 5 bio signals: bact, Stratum, Tubus, Frutexa, Tussock; 4d: 9 bio signals: bact, Aleoida, Cactoida, Concha, Fungoida, Osseus, Stratum, Frutexa, Tussock)
-76) 
+76) Smojooe MG-Y b29-1 (HMTx1)
+77) Smojooe NG-Y b29-0 (HMTx1, A2a: 5 bio signals: bact, Aleoida, Stratum, Frutexa, Tussock)
+78) Smojooe CX-A c14-7 (HMTx1)
+79) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -180,7 +183,9 @@ Listed:
 67) Smojooe IY-Y c14-7 (CMDR Zunaro)
 68) Smojooe ZF-O d6-37 (CMDR Puzomozg)
 69) Smojooe DS-A c14-1 (CMDR Otacon231k)
-70) 
+70) Smojooe IA-A b29-1 (CMDR Phydra642)
+71) Smojooe VN-U b31-1 (CMDR Rukutay)
+72) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -911,6 +916,57 @@ ABC4 = ROCKY = SERENx2, BENITx3, MONAZx3, MUSGx2
 ABC5 = ROCKY = SERENx2, ALEXx1, MONAZx1, MUSGx1
 ABC6A = MR = MONAZx1
 ABC6B = ROCKY = MONAZx2
+
+* Smojooe DS-A c14-8
+2A = MR = PAINx3, RHODx2, SERENx1, MONAZx1, PLATx1
+2B = ICY = TRITx2, BROMx2, GRANDx1, VOx1
+3A = ROCKY = SERENx1
+3B = ICY = \
+4 = ICY = GRANDx2
+5A = MR = PAINx1, PLATx1, MONAZx1
+5B = ICY = LTDx1, ALEXx2
+6 = ICY = 404 NOT FOUND
+
+* Smojooe DS-A c14-9
+2 = ICY = BROMx2, GRANDx1
+3A = MR = \
+3B = ICY = TRITx1, ALEXx2, GRANDx1
+4A = ROCKY = MONAZx2
+4B = ICY = VOx1
+5A = ROCKY = ALEXx1
+5B = ICY = \
+6 = ICY = TRITx4, BROMx2, ALEXx1, GRANDx1, VOx1
+
+* Smojooe AG-O d6-28
+1A = ROCKY = MONAZx1, SERENx1, BENITx1
+1B = ROCKY = \
+2 = MR = \
+
+* Smojooe OB-Y b29-2
+2 = ICY = BROMx2, GRANDx1
+
+* Smojooe NG-Y b29-0
+A7 = ICY = \
+B1 = MR = PLATx4
+B8 = ICY = LTD/ALEX overlap, BROMx1, GRANDx1, LTDx1, VOx1
+B10 = ICY = VOx1, ALEXx1
+
+* Smojooe VN-U b31-1
+1A = ROCKY = MUSGx1, SERENx1
+1B = ICY = VO/GRAND overlap, GRANDx1, LTDx1, VOx2, TRITx2, BROMx1
+
+* Smojooe US-U b31-0
+1 = ICY = ALEX/GRAND overlap, ALEX/LTD overlap, ALEX/VO overlap, ALEXx3, VOx4, LTDx2, TRITx1, BROMx2
+2 = ICY = TRIT/VO overlap, BROMx5, ALEXx3
+3A = ROCKY = SERENx3, ALEXx2, BENITx1, MUSGx2
+3B = ICY = \
+4A = ROCKY = MONAZx1
+4B = ICY = LTDx1, TRITx1, BROMx1, ALEXx1
+4C = ICY = VISIBLE, BUT NOT A TARGET
+5A = ROCKY = MUSGx1, MONAZx1
+5B = ICY = TRITx1, BROMx4, ALEXx3, GRANDx2, VOx1
+6 = ICY = BROMx1, TRITx1
+7 = ICY = GRANDx1
 
 * 
 
