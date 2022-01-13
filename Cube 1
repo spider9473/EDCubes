@@ -108,7 +108,9 @@ INNER ORION SPUR CUBE#1 POI
 79) Smojooe PD-T e3-9 (A9: 4 bio signals: bact, Cactoida, Fungoida, Osseus; A10: 4 bio signals: bact, Cactoida, Fungoida, Osseus; B6: 3 bio signals: bact, Frutexa, Tussock; B7: 3 bio signals: bact, Frutexa, Tussock)
 80) Smojooe JJ-X c15-0 (HMTx5, Wx1, Ax2)
 81) Smojooe JJ-X c15-1 (Wx1)
-82) 
+82) Smojooe HF-B b28-2 (A1: 4 bio signals: bact, fonticulua, Fungoida, Osseus)
+83) Smojooe ME-X c15-6 (7b: 5 bio signals: bact, Fungoida, Osseus, Stratum, Tussock)
+84) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -189,7 +191,10 @@ Listed:
 70) Smojooe IA-A b29-1 (CMDR Phydra642)
 71) Smojooe VN-U b31-1 (CMDR Rukutay)
 72) Smojooe UY-S b32-1 (CMDR Darkmoor)
-73) 
+73) Smojooe DM-M d7-5 (CMDR Otacon231k)
+74) Smojooe NW-X b29-2 (CMDR vizli puzli)
+75) Smojooe ME-X c15-6 (CMDR CJ FORTUNA)
+76) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -980,6 +985,24 @@ A3B = ICY = VO/TRIT overlap, BROM/GRAND overlap, VO/LTD overlap, ALEXx3, GRANDx2
 A1 = ICY = LTD/VOx3 overlap!!!, GRANDx1, VOx2, LTDx2, TRITx1, BROMx1
 A2 = ICY = LTD/TRIT overlap, ALEXx1, GRANDx1, VOx2
 
+* Smojooe FK-B b28-2
+3 = ICY = TRITx2
+4 = ICY = ALEXx3, VOx1, LTDx1, TRITx1
+5 = ICY = BROMx1, VOx1
+
+* Smojooe ME-X c15-6
+4A = ROCKY = BENITx2, MUSGx3
+4B = MR = SERENx1, RHODx2, PLATx2
+8A = ROCKY = SERENx1, ALEXx2, BENITx1, MONAZx2, MUSGx1
+8B = ROCKY = MUSGx2, MONAZx1
+9A = MR = PLAT/RHOD ocerlap, SERENx3, MONAZx1, PLATx1
+9B = ICY = LTD/BROM overlap, VO/ALEX/TRIT ocerlap, LTD/VO oVerlap, GRANDx2, LTDx1, TRITx1
+
+* Smojooe HY-Y c14-3
+1A = ROCKY = ALEXx3, MUSGx1, MONAZx1, SERENx1
+1B = ROCKY = \
+2 = MR = RHODx1
+
 * 
 
 *******************************************
@@ -1136,4 +1159,10 @@ A3 CADM 2,6% NIOB 2,3% RUTH 2,1%
 * Smojooe DS-A c14-1
 AB4 ZIRC 2,6% TIN 1,5% MOLY 1,5% POLO 0,6%
 
-* 
+* Smojooe FH-M d7-45
+AB1 MOLY 2,1% RUTH 2,0% MERC 1,5%
+
+* Smojooe ME-X c15-6
+4 ZIRC 2,6% MOLY 1,5% TUNG 1,2% TECH 0,8%
+
+*
