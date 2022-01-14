@@ -110,7 +110,9 @@ INNER ORION SPUR CUBE#1 POI
 81) Smojooe JJ-X c15-1 (Wx1)
 82) Smojooe HF-B b28-2 (A1: 4 bio signals: bact, fonticulua, Fungoida, Osseus)
 83) Smojooe ME-X c15-6 (7b: 5 bio signals: bact, Fungoida, Osseus, Stratum, Tussock)
-84) 
+84) Smojooe HY-Y c14-2 (4с: 4 bio signals: bact, Fungoida, Frutexa, Tussock; 4d: 3 bio signals: bact, Frutexa, Tussock; 4f: 3 bio signals: bact, Frutexa, Tussock; 4e: 3 bio signals: bact, Frutexa, Tussock)
+85) Smojooe DM-M d7-3 (WTx1, HMTx2)
+86) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -194,7 +196,9 @@ Listed:
 73) Smojooe DM-M d7-5 (CMDR Otacon231k)
 74) Smojooe NW-X b29-2 (CMDR vizli puzli)
 75) Smojooe ME-X c15-6 (CMDR CJ FORTUNA)
-76) 
+76) Smojooe LB-Y b29-0 (CMDR Phydra642)
+77) Smojooe IV-Z b28-0 (CMDR vizli puzli)
+78) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -1002,6 +1006,21 @@ A2 = ICY = LTD/TRIT overlap, ALEXx1, GRANDx1, VOx2
 1A = ROCKY = ALEXx3, MUSGx1, MONAZx1, SERENx1
 1B = ROCKY = \
 2 = MR = RHODx1
+
+* Smojooe QH-W b30-0
+5A = ROCKY = SERENx2, ALEXx1, MUSGx1
+5B = ICY = VOx1, TRITx1
+6 = ICY = \
+
+* Smojooe DM-M d7-33
+A2A = MET = PAIN/MONAZ overlap, SERENx1, RHODx4, MONAZx3, PAINx1
+A2B = MR = SERENx1
+A3 = ROCKY = SERENx1, BENITx2, MONAZx1
+
+* Smojooe DS-A c14-5
+4 = ICY = LTDx1
+5A = ROCKY = BENITx1, MONAZx1, MUSGx1
+5B = ICY = LTDx1
 
 * 
 
