@@ -112,7 +112,10 @@ INNER ORION SPUR CUBE#1 POI
 83) Smojooe ME-X c15-6 (7b: 5 bio signals: bact, Fungoida, Osseus, Stratum, Tussock)
 84) Smojooe HY-Y c14-2 (4с: 4 bio signals: bact, Fungoida, Frutexa, Tussock; 4d: 3 bio signals: bact, Frutexa, Tussock; 4f: 3 bio signals: bact, Frutexa, Tussock; 4e: 3 bio signals: bact, Frutexa, Tussock)
 85) Smojooe DM-M d7-3 (WTx1, HMTx2)
-86) 
+86) Smojooe DS-A c14-6 (HMTx1)
+87) Smojooe DM-M d7-38 (HMTx2, WTx1, 1 PHENA(MET CRYST PURPUREUM))
+88) Smojooe KV-Z b28-2 (HMTx1)
+89) 
 
 **********************************
 ***  CUBE ONE TOUCHED SYSTEMS  ***
@@ -198,7 +201,8 @@ Listed:
 75) Smojooe ME-X c15-6 (CMDR CJ FORTUNA)
 76) Smojooe LB-Y b29-0 (CMDR Phydra642)
 77) Smojooe IV-Z b28-0 (CMDR vizli puzli)
-78) 
+78) Smojooe DM-M d7-38 (CMDR Phydra642)
+79) 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 INNER ORION SPUR CUBE#1 RINGS 
@@ -1022,6 +1026,50 @@ A3 = ROCKY = SERENx1, BENITx2, MONAZx1
 5A = ROCKY = BENITx1, MONAZx1, MUSGx1
 5B = ICY = LTDx1
 
+* Smojooe DM-M d7-36
+2A = ROCKY = ALEXx1, BENITx1, MUSGx1
+2B = ROCKY = MUSGx2, MONAZx1, ALEXx1
+3 = MR = RHODx3, SERENx1, MONAZx1
+4A = ROCKY = \
+4B = MR = MONAZx1, SERENx1
+5A = MET = RHODx2, MONAZx2, PAINx3, PLATx4
+5B = MR = SERENx2, PLATx1
+
+* Smojooe ZF-O d6-40
+4A = MET = \
+4B = MR = SERENx3, RHODx2, MONAZx2, PLATx1, PAINx1
+5A = MET = RHODx1, MONAZx1, PLATx1, PAINx2
+5B = ROCKY = ALEXx1, MUSGx1
+5b = ROCKY = \
+6A = ROCKY = MUSGx1
+6B = MR = \
+7A = MET = \
+7B = ROCKY = ALEXx1, BENITx3, MONAZx2
+8 = MR = SEREN/MONAZ overlap, SERENx2, RHODx2, PLATx1, PAINx1
+
+* Smojooe AG-O d6-12
+A10 = ICY = VOx1, ALEXx1
+
+* Smojooe HP-B b28-1
+5 = ICY = GRANDx1, LTDx1
+6A = ROCKY = SERENx3, ALEXx1, BENITx2, MUSGx1, MONAZx1
+6B = ICY = GRANDx1, LTDx1
+
+* Smojooe KV-Z b28-2
+AB1 = ICY = \
+AB2 = ICY = \
+
+* Smojooe JV-Z b28-2
+A4 = ICY = \
+A5 = ICY = \
+
+* Smojooe JV-Z b28-1
+AB1A = ROCKY = MUSGx1
+AB1B = ICY = \
+AB2A = MET = \
+AB2B = ICY = VOx1
+AB3 = ICY = TRIT/VO overlap, ALEXx2, GRANDx1, LTDx2, VOx1, TRITx3, BROMx2
+
 * 
 
 *******************************************
@@ -1184,4 +1232,10 @@ AB1 MOLY 2,1% RUTH 2,0% MERC 1,5%
 * Smojooe ME-X c15-6
 4 ZIRC 2,6% MOLY 1,5% TUNG 1,2% TECH 0,8%
 
-*
+* Smojooe DS-A c14-6
+B1 ZIRC 4,3% NIOB 2,5% MOLY 2,4% YTT 2,2%
+
+* Smojooe HP-B b28-0
+B1 ZIRC 2,6% CADM 1,8% TELL 1,2% MERC 1,0%
+
+* 
